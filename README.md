@@ -44,10 +44,10 @@ Currently, it is in its *initial phase*, developed using HTML, CSS, and JavaScri
 
 
 ## Screenshots
-![Home Page](screenshot1.png)
-![Home Page](screenshot2.png)
-![Admin Dashboard](screenshot3.png)
-![Teacher Dashboard](screenshot4.png)
+![Home Page](screenshot1.png.jpg)
+![Home Page](screenshot2.png.jpg)
+![Admin Dashboard](screenshot3.png.jpg)
+![Teacher Dashboard](screenshot4.png.jpg)
 
 *Developed By:*  
 *Team SAANA*  
