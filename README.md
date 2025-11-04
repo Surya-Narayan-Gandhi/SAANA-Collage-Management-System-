@@ -42,12 +42,16 @@ Currently, it is in its *initial phase*, developed using HTML, CSS, and JavaScri
 - *Team Leader:* Surya Narayan Gandhi  
 - *Team Members:* Anand Shekhar, Aditya Raj, Nisha Singh, Anu Kumari
 
+- Web site:-https://surya-narayan-gandhi.github.io/SAANA-Collage-Management-System-/
+
 
 ## Screenshots
 ![Home Page](screenshot1.png.jpg)
 ![Home Page](screenshot2.png.jpg)
 ![Admin Dashboard](screenshot3.png.jpg)
 ![Teacher Dashboard](screenshot4.png.jpg)
+
+
 
 *Developed By:*  
 *Team SAANA*  
